@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*======PROPRIEDADES======*/
+
+/*
+ display: flex;
+ flex-direction: column;
+ flex-direction: row-reverse; - inverte 54321 para o lado direito da página
+ align-items: center;
+ align-items: flex-start;
+ justify-content: flex-end;
+justify-content: center;
+justify-content: space-between;
+justify-content: space-around;
+
+ flex: 1; - preenche todo espaço do container
+
+*/
+.container{
+    height: 400px;
+    background-color: cadetblue;
+    padding: 10px;
+    display: flex;
+   /* flex-direction: row;*/
+    align-items: center;
+    justify-content: center;
+
+    flex-wrap: wrap;
+    
+
+
+}
+.item{
+    width: 250px;
+    padding: 20px;
+    background-color: aquamarine;
+    color: #333;
+    border: 1px solid #333;
+    font-size: 30px;
+    /*flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 50%;
+    */
+   
+}
+
+/*
+.c3{
+   order: 1;
+}
+
+*/
