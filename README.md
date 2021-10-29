@@ -9,7 +9,7 @@ Estudando as propriedades do **Flexbox** - HTML5, CSS3 e JavaScript.
 - CodarMe - https://www.youtube.com/c/CodarMe
 - Felipe Rocha • dicasparadevs - https://www.youtube.com/c/dicasparadevs
 - Origamid - https://www.youtube.com/watch?v=x-4z_u8LcGc
-#### Sites
+#### Sites:
 - CSS-Tricks - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - Color - https://www.colourlovers.com/
 - Gradient - https://cssgradient.io/
